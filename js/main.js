@@ -17,8 +17,8 @@
 			"url": "https://www.infosecdiaries.live/Blogs/HackersM_Blog.html"
 		},
 		{
-			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"id": "Bounty_Hunter",
+			"url": "https://www.infosecdiaries.live/Blogs/Bounty_Hunter.html"
 		}
 	]
 
