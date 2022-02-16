@@ -1,12 +1,5 @@
-
-html, body, table
-{
-  font-family: Verdana, Arial, Helvetica;
-  font-size:   10pt;
-  font-style:  normal;
-  font-weight: normal;
-  background:  #999999;
-  color:       #000000;
+html, body, table{
+  background-color: #666666;
 }
 
 body
@@ -23,14 +16,14 @@ pre
 
 a:link
 {
-  color: #cccccc;
+  color: #000000;
   background: transparent;
   text-decoration: none;
 }
 
 a:visited
 {
-  color: #666666;
+  color: #000000;
   background: transparent;
   text-decoration: none;
 }
