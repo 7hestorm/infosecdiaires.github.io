@@ -13,8 +13,8 @@
 			"url": "https://ajtima.com"
 		},
 		{
-			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"id": "HackersM_Blog1",
+			"url": "https://www.infosecdiaries.live/Blogs/HackersM_Blog.html"
 		},
 		{
 			"id": "projectSedkodes",
