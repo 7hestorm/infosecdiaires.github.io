@@ -1305,9 +1305,9 @@ body.offcanvas {
   cursor: pointer;
   text-decoration: none; }
   .colorlib-nav-toggle.active i::before, .colorlib-nav-toggle.active i::after {
-    background: rgb(255, 255, 255); }
+    background: rgb(0, 0, 0); }
   .colorlib-nav-toggle.dark.active i::before, .colorlib-nav-toggle.dark.active i::after {
-    background: rgb(255, 255, 255); }
+    background: rgb(0, 0, 0); }
   .colorlib-nav-toggle:hover, .colorlib-nav-toggle:focus, .colorlib-nav-toggle:active {
     outline: none;
     border-bottom: none !important; }
@@ -1345,7 +1345,7 @@ body.offcanvas {
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
     .colorlib-nav-toggle.dark i::before, .colorlib-nav-toggle.dark i::after {
-      background: rgb(255, 255, 255);
+      background: rgb(0, 0, 0);
       -webkit-transition: 0.2s;
       -o-transition: 0.2s;
       transition: 0.2s; }
